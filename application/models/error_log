@@ -1,0 +1,2 @@
+[08-Aug-2017 19:05:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/upfukkfb/public_html/sistema/application/views/admin/v_comprador.php on line 725
+[08-Aug-2017 19:05:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/upfukkfb/public_html/sistema/application/views/admin/v_comprador.php on line 725

@@ -1,0 +1,8 @@
+TRUNCATE `almacen_clientes`;
+TRUNCATE `detalle_venta`;
+TRUNCATE `distribucion_guia`;
+TRUNCATE `entrada_productos`;
+TRUNCATE `movi_al_cli`;
+TRUNCATE `precio_cliente`;
+TRUNCATE `productos_stock`;
+TRUNCATE `ventas`;
